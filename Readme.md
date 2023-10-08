@@ -1,91 +1,36 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Shourya+%3C3;SS+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
-</div>
-
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
-
-- :credit_card: My full name is **Shourya Sharma** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: I'm currently the Final year student at **IIT Kharagpur**
-- :books: My major is **Software Engineering**
-- :earth_asia: I'm living now in **Kharagpur, West Bengal, India**
-- :sweat_smile: I'm a intermediate in coding :penguin:
-- :monocle_face: I'm interested in coding, sleeping, and watching film
-- :sunglasses: My quote is **_"It's never too late - never too late to start over, never too late to be happy"_**
-- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
-
-<br>
-
-<p  align="center">
-
-<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
-  </p>
-  
-<p  align="center">
-
-<img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" height="25"/>  
-  &nbsp;
-<img src="https://camo.githubusercontent.com/ec263c8eb4b0c40ad76855b9bc9d1168a715a30d72bb3e4634650c12e2688989/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3035313232413f7374796c653d666c6174266c6f676f3d65636c697073652d696465266c6f676f436f6c6f723d324332323535" height="25"/>
-  </p>
-  
-  <p  align="center">
-
-<img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" height="25"/>
-  &nbsp;
-<img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
-  &nbsp;
-<img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>  
- </p>
- 
- <p  align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
-  &nbsp;
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
-&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/spyder-ide/spyder/master/branding/logo/spyder_readme_banner.png" height="25">
-&nbsp;
-  
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25">
-</p>
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
-&nbsp;
-    <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
-&nbsp;
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
-
-</p>
-<br>
-
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
-
-<p align="center">
-  <a href="sshourya17@gmail.com" >
-    <img align="center" alt="Shourya742 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/shourya-sharma-65b5351a7/" target="_blank">
-    <img align="center" alt="Shourya742 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://profile-summary-for-github.herokuapp.com/user/Shourya742" target="_blank">
-    <img align="center" alt="Shourya742 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-  
+<h3>Things I code with</h3>
 <p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1.svg?style=for-the-badge&logo=Zod&logoColor=white"/>
+  <img alt="tRPC" src="https://img.shields.io/badge/tRPC-2596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white"/>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white"/>
+  <img alt="bitcoin" src="https://img.shields.io/badge/Bitcoin-F7931A.svg?style=for-the-badge&logo=Bitcoin&logoColor=white"/>
+  <img alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
+  <img alt="solidity" src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white"/>
+  <img alt="express" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
+  <img alt="recoil" src="https://img.shields.io/badge/Recoil-3578E5.svg?style=for-the-badge&logo=Recoil&logoColor=white"/>
+  <img alt="redis" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white"/>
+</p>
 
-<div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2023 Shourya Sharma
-</div>
+## &#x1f4c8; GitHub Stats
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya742&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <br>
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Shourya742&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
