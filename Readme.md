@@ -28,9 +28,3 @@
   <img alt="redis" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white"/>
 </p>
 
-## &#x1f4c8; GitHub Stats
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya742&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <br>
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Shourya742&theme=darcula&hide_border=true&background=FFFFFF00">
-</p>
